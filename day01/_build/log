@@ -1,0 +1,6 @@
+# dune init project day01
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/wmeints/.cache/dune/db
+# Workspace root: /home/wmeints/repos/adventcode2023/day01
+# Auto-detected concurrency: 32
